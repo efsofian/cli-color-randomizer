@@ -1,3 +1,3 @@
-# const apz = require('cli-color-randomizer');
+## const apz = require('cli-color-randomizer');
 
-# apz();
+## apz();
