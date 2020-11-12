@@ -1,0 +1,27 @@
+{
+  "name": "cli-color-randomizer",
+  "version": "1.0.0",
+  "description": "put some colors on your console.log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efsofian/cli-color-randomizer.git"
+  },
+  "keywords": [
+    "colors",
+    "random",
+    "console.log"
+  ],
+  "author": "seliasbe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efsofian/cli-color-randomizer/issues"
+  },
+  "homepage": "https://github.com/efsofian/cli-color-randomizer#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
